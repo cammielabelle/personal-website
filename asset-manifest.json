@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perosnal-website/static/css/main.2be5f961.css",
+    "main.js": "/perosnal-website/static/js/main.f17474e8.js",
+    "static/js/453.855ab442.chunk.js": "/perosnal-website/static/js/453.855ab442.chunk.js",
+    "index.html": "/perosnal-website/index.html",
+    "main.2be5f961.css.map": "/perosnal-website/static/css/main.2be5f961.css.map",
+    "main.f17474e8.js.map": "/perosnal-website/static/js/main.f17474e8.js.map",
+    "453.855ab442.chunk.js.map": "/perosnal-website/static/js/453.855ab442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be5f961.css",
+    "static/js/main.f17474e8.js"
+  ]
+}
